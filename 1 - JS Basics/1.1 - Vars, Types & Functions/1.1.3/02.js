@@ -2,11 +2,13 @@
 // P.E. Si le paso sayHi('Jon'), debe mostrar "HOLA Jon"
 
 // 👇🏻 Define aquí tu función
-
+const sayHi = function(name) {
+	console.log(`HOLA ${name}!`);
+};
 // 👆🏻
 sayHi('Jon');
 // 👇🏻 Añade aqui otra invocación con tu nombre
-
+sayHi('Carmela');
 // 👆🏻
 
 // ✅  => HOLA Jon

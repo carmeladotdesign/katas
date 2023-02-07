@@ -15,6 +15,6 @@ const users = [
 ];
 
 // Escribe entre comillas, que crees que aparecerá en los siguiente log y descomentalo
-// console.log(users[0].age, '');
-// console.log(users.name, '');
-// console.log(users[2].name, '');
+// console.log(users[0].age, '36'); Porque especifica la posición 0 del array, que es la primera.
+// console.log(users.name, 'NADA'); Porque no indica ninguna posición.
+// console.log(users[2].name, 'Paco'); Porque especifica la posición 2 del array, que es la tercera.

@@ -2,6 +2,7 @@
 // sintaxis abreviada de las arrow functions
 
 // 👇🏻 Crea aquí tu función
+multiply(a, b) =>  a * b;
 
 // 👆🏻
 

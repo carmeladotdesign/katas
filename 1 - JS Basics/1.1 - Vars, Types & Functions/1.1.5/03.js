@@ -3,7 +3,7 @@
 const createCounter = () => {
   const counter = 5;
   return counter;
-}
+};
 
 createCounter();
 
